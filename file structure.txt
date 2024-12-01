@@ -1,0 +1,20 @@
+NeoQuanta/
+├── config/
+│   └── config.yaml
+├── data/
+├── hardware_scanner/
+│   ├── __init__.py
+│   └── scanner.py
+├── core_ai/
+│   ├── __init__.py
+│   ├── ai_logic.py
+│   ├── code_generator.py
+│   └── learning_engine.py
+├── utils/
+│   ├── __init__.py
+│   ├── error_handling.py
+│   ├── self_diagnostics.py
+│   └── logger.py
+├── logs/
+├── main.py
+└── README.md
