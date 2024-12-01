@@ -1,0 +1,16 @@
+hardware:
+  cpu: true
+  gpu: true
+  tpu: true
+  raspberry_pi: true
+
+logging:
+  level: INFO
+  file: logs/neoquanta.log
+
+modules:
+  ai_logic_enabled: true
+  code_generator_enabled: true
+  learning_engine_enabled: true
+
+self_scan_interval: 60  # in seconds
